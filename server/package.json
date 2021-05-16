@@ -23,7 +23,8 @@
     "moment": "^2.20.0",
     "mysql2": "^2.2.5",
     "sequelize": "^6.6.2",
-    "sequelize-typescript": "^2.1.0"
+    "sequelize-typescript": "^2.1.0",
+    "uuid4": "^2.0.2"
   },
   "devDependencies": {
     "@types/express": "^4.17.11",
